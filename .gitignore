@@ -1,0 +1,11 @@
+config.py
+
+*.txt
+
+*.jpg
+
+*.png
+
+test.py
+
+__pycache__
